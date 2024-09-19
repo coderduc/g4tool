@@ -7,6 +7,6 @@ pkg install git -y
 git clone https://github.com/coderduc/g4tool
 cd g4tool
 chmod +x g4tool
-bash g4tool
+./g4tool
 ```
 [>] Done.
